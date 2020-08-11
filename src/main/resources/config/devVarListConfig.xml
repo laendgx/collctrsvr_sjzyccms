@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devVarList>
+  <devece dwdevTypeId="2261" dwVariantId="226101" szVariantDesc="播放表" dwSendCmd="17" dwRecvCmd="18" szFuncAbbr="LST"/>
+  <devece dwdevTypeId="2261" dwVariantId="226102" szVariantDesc="亮度" dwSendCmd="07" dwRecvCmd="01" szFuncAbbr="BRI"/>
+  <devece dwdevTypeId="2261" dwVariantId="226103" szVariantDesc="亮度模式" dwSendCmd="07" dwRecvCmd="01" szFuncAbbr="MOD"/>
+  <devece dwdevTypeId="2261" dwVariantId="226104" szVariantDesc="开屏" dwSendCmd="05" dwRecvCmd="06" szFuncAbbr="OPN"/>
+  <devece dwdevTypeId="2261" dwVariantId="226105" szVariantDesc="关屏" dwSendCmd="05" dwRecvCmd="06" szFuncAbbr="CLS"/>
+  <devece dwdevTypeId="2261" dwVariantId="226119" szVariantDesc="通讯故障" dwSendCmd="00" dwRecvCmd="99" szFuncAbbr="COM"/>
+</devVarList>
